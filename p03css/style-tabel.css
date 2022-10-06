@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+    max-width: 1024px;
+}
+
+.tengah{
+    text-align: center;
+}
+
+th{
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+
+td{
+    background-color: #EDDBC0;
+    padding: 8px;
+}
+
+td:hover{
+    background-color: #e7cca6;
+}
